@@ -1,4 +1,4 @@
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+![image](https://github.com/PavithraD23004871/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138955967/c4242608-9774-4c54-b853-2aaf9707cbcc)![image](https://github.com/PavithraD23004871/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138955967/38806c6a-5c2c-454c-8b0a-e529cf75a5ca)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -54,15 +54,28 @@ plt.ylabel('y')
 plt.plot(x_train,lr.predict(x_train),color='red')
 ``````
 ## Output:
-# df.head()
-![Alt text](<ml 1 output.png>)
+1.HEAD:
+
+![image](https://github.com/PavithraD23004871/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138955967/e7dc94fd-6584-44d8-8afd-4b524f0b13f1)
+
+
 # plot:
-![Alt text](<ml 2 output.png>)
+
+![image](https://github.com/PavithraD23004871/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138955967/d8d4c039-41de-4074-94be-a988bdedd327)
+
+
 # iloc:
-![Alt text](<ml 3 output.png>)
+
+![image](https://github.com/PavithraD23004871/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138955967/c5a85d2e-c5ad-48be-b161-9f37138bb08d)
+
+
 # Training:
-![Alt text](<ml 4 output.png>)
+![image](https://github.com/PavithraD23004871/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138955967/2643e0b7-1e9b-40b0-9a95-ad9dc2ff5e6c)
+
+
 # Graph:
-![Alt text](<ml 5 output.png>)
+
+![image](https://github.com/PavithraD23004871/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138955967/1c394d49-82c1-4739-8983-3882d7c6e1e8)
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
